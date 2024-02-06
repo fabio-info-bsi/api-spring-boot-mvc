@@ -2,9 +2,7 @@ package br.com.fabex.api.authentication;
 
 import br.com.fabex.api.services.LoggedUserManagementService;
 import br.com.fabex.api.services.LoginCountService;
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.annotation.RequestScope;
