@@ -1,4 +1,4 @@
-package br.com.fabex.api.services;
+package br.com.fabex.app.web.services;
 
 import lombok.Getter;
 import lombok.Setter;

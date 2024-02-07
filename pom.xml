@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.fabex</groupId>
-	<artifactId>wep-app-spring-boot-mvc</artifactId>
+	<artifactId>app-wep-spring-boot-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>wep-app-spring-boot-mvc</name>
+	<name>app-wep-spring-boot-mvc</name>
 	<description>Um exemplo de aplicação web com spring boot com mvc.</description>
 	<properties>
 		<java.version>21</java.version>

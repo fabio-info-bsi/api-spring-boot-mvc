@@ -1,4 +1,4 @@
-package br.com.fabex.api.model;
+package br.com.fabex.app.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

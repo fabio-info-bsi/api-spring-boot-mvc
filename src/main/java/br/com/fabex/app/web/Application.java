@@ -1,4 +1,4 @@
-package br.com.fabex.api;
+package br.com.fabex.app.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

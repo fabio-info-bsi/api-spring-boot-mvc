@@ -1,4 +1,4 @@
-# wep-app-spring-boot-mvc
+# app-wep-spring-boot-mvc
 Um exemplo de web application (fornt & back)-end com spring boot com mvc.
 
 ## Usou/Criou:

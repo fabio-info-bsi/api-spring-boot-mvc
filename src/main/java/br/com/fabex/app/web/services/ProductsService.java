@@ -1,6 +1,6 @@
-package br.com.fabex.api.services;
+package br.com.fabex.app.web.services;
 
-import br.com.fabex.api.model.Product;
+import br.com.fabex.app.web.model.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

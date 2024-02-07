@@ -1,7 +1,7 @@
-package br.com.fabex.api.controller;
+package br.com.fabex.app.web.controller;
 
-import br.com.fabex.api.services.LoggedUserManagementService;
-import br.com.fabex.api.services.LoginCountService;
+import br.com.fabex.app.web.services.LoggedUserManagementService;
+import br.com.fabex.app.web.services.LoginCountService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,7 +1,7 @@
-package br.com.fabex.api.controller;
+package br.com.fabex.app.web.controller;
 
-import br.com.fabex.api.model.Product;
-import br.com.fabex.api.services.ProductsService;
+import br.com.fabex.app.web.model.Product;
+import br.com.fabex.app.web.services.ProductsService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
